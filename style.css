@@ -11,7 +11,7 @@ h1 {
     color: #FFA500;
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
